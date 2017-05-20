@@ -1,0 +1,17 @@
+{
+  "omelette": [
+    {"ingridient_name": "eggs", "quantity": 2, "measure": "th."},
+    {"ingridient_name": "tomatoes", "quantity": 100, "measure": "hr."}
+    ],
+  "steak": [
+    {"ingridient_name": "beef", "quantity": 300, "measure": "hr."},
+    {"ingridient_name": "spice", "quantity": 5, "measure": "gr."},
+    {"ingridient_name": "butter", "quantity": 10, "measure": "ml."}
+    ],
+  "salad": [
+    {"ingridient_name": "tomatoes", "quantity": 100, "measure": "gr."},
+    {"ingridient_name": "cucumber", "quantity": 100, "measure": "gr."},
+    {"ingridient_name": "butter", "quantity": 100, "measure": "ml."},
+    {"ingridient_name": "bow", "quantity": 1, "measure": "th."}
+    ]
+}
